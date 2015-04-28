@@ -1,7 +1,7 @@
 Hapi-Mongoose-Passport Example
 ========================
 
-The purpose of this app is to show a new way to work with Hapi.js, Mongodb, Mongoose, Angular.js.
+The purpose of this app is to show a new way to work with Hapi.js, Passport.js, Mongodb, Mongoose, Angular.js.
 
 
 ### Install an app
@@ -10,7 +10,7 @@ Run the following command in root directory of an app in command prompt.
 
 ###### *Install node packages*
 
-server/ node install
+server/ npm install
 
 ### Run an app
 
